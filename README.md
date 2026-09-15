@@ -29,43 +29,43 @@ El proyecto se centra en el sistema de salto del personaje. El problema de dise�
 
 Requisitos
 
-Motor: Unity
-Versión: Unity 2D v 2021.3.38f1
-Lenguaje: C#
-Herramientas adicionales: No se requieren.
+- Motor: Unity
+- Versión: Unity 2D v 2021.3.38f1
+- Lenguaje: C#
+- Herramientas adicionales: No se requieren.
 
 Ejecución
 
-Abrir el proyecto desde Unity Hub.
-Seleccionar la versión correspondiente de Unity.
-Abrir el proyecto.
-Abrir la escena principal.
-Presionar Play en el editor para ejecutar el juego.
+- Abrir el proyecto desde Unity Hub.
+- Seleccionar la versión correspondiente de Unity.
+- Abrir el proyecto.
+- Abrir la escena principal.
+- Presionar Play en el editor para ejecutar el juego.
 
 ## Controles
 
 Durante el juego
 
-A / Flecha izquierda: mover al personaje hacia la izquierda.
-D / Flecha derecha: mover al personaje hacia la derecha.
-Espacio: saltar.
-Escape: volver al menú principal.
+- A / Flecha izquierda: mover al personaje hacia la izquierda.
+- D / Flecha derecha: mover al personaje hacia la derecha.
+- Espacio: saltar.
+- Escape: volver al menú principal.
 
 Menú
 
-Flechas arriba / abajo: desplazarse entre las opciones.
-Enter: seleccionar la opción.
-Escape: volver al menú anterior.
+- Flechas arriba / abajo: desplazarse entre las opciones.
+- Enter: seleccionar la opción.
+- Escape: volver al menú anterior.
 
 ## Creditos
 
-Assets: propios, no se utilizan assets de terceros.
-Sonidos: propios, no se utilizan sonidos de terceros.
-Tipografías: Arial.
-Plugins: propios, no se utilizan plugins de terceros.
-Código: código propio desarrollado para el proyecto.
-Referencias: GDD y documentación del proyecto.
-Licencias de terceros: no se utilizan recursos de terceros.
+- Assets: propios, no se utilizan assets de terceros.
+- Sonidos: propios, no se utilizan sonidos de terceros.
+- Tipografías: Arial.
+- Plugins: propios, no se utilizan plugins de terceros.
+- Código: código propio desarrollado para el proyecto.
+- Referencias: GDD y documentación del proyecto.
+- Licencias de terceros: no se utilizan recursos de terceros.
 
 ## Entrega o demostracion
 
