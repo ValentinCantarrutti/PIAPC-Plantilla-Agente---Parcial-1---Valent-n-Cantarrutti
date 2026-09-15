@@ -69,4 +69,4 @@ Menú
 
 ## Entrega o demostracion
 
-La compilación, video o publicación del proyecto se agregará cuando sea requerida como parte de la entrega final.
+No aplica a esta entrega.
