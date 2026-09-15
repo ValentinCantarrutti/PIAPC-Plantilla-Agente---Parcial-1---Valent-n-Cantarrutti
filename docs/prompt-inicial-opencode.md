@@ -62,6 +62,7 @@ Presentá el resultado en este orden:
 7. Condiciones para detenerse y consultar.
 
 La propuesta debe respetar el alcance definido: modificar únicamente la altura del salto del personaje y no alterar el movimiento horizontal ni las mecánicas de enemigos, monedas o Power-Ups.
-```
+
 
 No implementes ninguna modificación todavía.
+```
