@@ -3,7 +3,7 @@ using UnityEngine;
 public class Jugador : MonoBehaviour
 {
     public float velocidad = 5f;
-    public float fuerzaSalto = 6f;
+    public float fuerzaSalto = 10f;
 
     private Rigidbody2D rb;
     private bool estaEnSuelo;
